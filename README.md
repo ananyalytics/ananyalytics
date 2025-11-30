@@ -1,6 +1,6 @@
 # Hello World!
 
-I am a Data Science and Machine Learning learner currently pursuing **BSc Data Science and Analytics**.
+I'm a Data Science and Machine Learning learner currently pursuing **BSc Data Science and Analytics**.
 I’m in the early phase of my journey, actively building a portfolio of analytical and ML-driven projects to strengthen my fundamentals. 
 
 ## My goal:
