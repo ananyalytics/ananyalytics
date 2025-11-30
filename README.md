@@ -4,7 +4,7 @@ I'm a Data Science and Machine Learning learner currently pursuing **BSc Data Sc
 I’m in the early phase of my journey, actively building a portfolio of analytical and ML-driven projects to strengthen my fundamentals. 
 
 ## My goal:
-- Building industry-ready skills in ***Python, Data Analysis, ML fundamentals, and SQL***
+- Building industry-ready skills in **Python, Data Analysis, ML fundamentals, and SQL**
 - Creating meaningful, insight-driven projects
 
 <!--
