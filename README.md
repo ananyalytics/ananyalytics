@@ -10,7 +10,7 @@ I mainly work with:
 - **Google Sheets** for working with data
 - **Python & Jupyter Notebook** for data analysis and learning ML foundations
 
-Among all the projects that I've built, my favourite one is [Student_Engagement_Analysis](https://github.com/ananyalytics/student_engagement_analysis).
+Among all the projects that I've built, my favourite one is [student_engagement_analysis](https://github.com/ananyalytics/student-engagement-analysis).
 
 ## Fun Facts:
 
