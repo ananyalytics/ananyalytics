@@ -1,11 +1,22 @@
-# Hello World!
+# 👋🏻 Hello World!
 
-I'm a Data Science and Machine Learning learner currently pursuing **BSc Data Science and Analytics**.
-I’m in the early phase of my journey, actively building a portfolio of analytical and ML-driven projects to strengthen my fundamentals. 
+I'm Ananya Jha, a Data Science undergraduate based in Bangalore.
 
-## My goal:
-- Building industry-ready skills in **Python, Data Analysis, ML fundamentals, and SQL**
-- Creating meaningful, insight-driven projects
+I actively build insight-driven data and business analytics projects.
+
+I mainly work with:
+- **Power BI** (my strongest skill - dashboards, benchmarks, storytelling)
+- **SQL (MySQL)** for structured analysis
+- **Google Sheets** for working with data
+- **Python & Jupyter Notebook** for data analysis and learning ML foundations
+
+Among all the projects that I've built, my favourite one is [Student_Engagement_Analysis](https://github.com/ananyalytics/student_engagement_analysis).
+
+## Fun Facts:
+
+- Coffee > Tea
+- Favourite series: *Peaky Blinders*
+- **Hobbies**: jogging, gym, dashboard designing
 
 <!--
 **ananyalytics/ananyalytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
