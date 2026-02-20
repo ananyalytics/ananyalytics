@@ -12,11 +12,17 @@ I mainly work with:
 
 Among all the projects that I've built, my favourite one is [student_engagement_analysis](https://github.com/ananyalytics/student-engagement-analysis).
 
+
+
 ## Fun Facts:
 
 - Coffee > Tea
 - Favourite series: *Peaky Blinders*
 - **Hobbies**: jogging, gym, dashboard designing
+
+---
+
+Taking small steps in a long-term direction.
 
 <!--
 **ananyalytics/ananyalytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
