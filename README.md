@@ -13,7 +13,7 @@ Most of my work revolves around:
 
 ---
 
-## 🚀 Favourite Porject:
+## 🚀 Favourite Project:
 **[BigMart Sales Analysis (R)](https://github.com/ananyalytics/bigmart-sales-analysis)** - data analysis project covering cleaning, EDA, and visualization of retail sales data
 
 ---
