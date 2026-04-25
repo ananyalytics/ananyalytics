@@ -1,22 +1,26 @@
 # 👋🏻 Hello World!
 
-I'm Ananya Jha, a Data Science undergraduate based in Bangalore.
+I'm Ananya Jha — a Data Science undergraduate based in Bangalore.
 
-I actively build insight-driven data and business analytics projects.
+I like turning messy data into clear stories, dashboards, and decisions.
 
-I mainly work with:
-- **Power BI** (my strongest skill - dashboards, benchmarks, storytelling)
-- **SQL (MySQL)** for structured analysis
-- **Google Sheets** for working with data
-- **Python & Jupyter Notebook** for data analysis and learning ML foundations
+Most of my work revolves around:
 
-Among all the projects that I've built, my favourite one is [student_engagement_analysis](https://github.com/ananyalytics/student-engagement-analysis).
+- **Power BI** - building dashboards that actually explain something, not just look good
+- **SQL (MySQL)** - digging into structured data to find patterns
+- **Microsoft Excel** - quick analysis and experimentation
+- **R Programming** - data cleaning, visualization, and analytical workflows
 
+---
 
+## 🚀 Favourite Porject:
+**[BigMart Sales Analysis (R)](https://github.com/ananyalytics/bigmart-sales-analysis)** - data analysis project covering cleaning, EDA, and visualization of retail sales data
+
+---
 
 ## Fun Facts:
 
-- Coffee > Tea
+- Coffee > Tea (non-negotiable)
 - Favourite series: *Peaky Blinders*
 - **Hobbies**: jogging, gym, dashboard designing
 
