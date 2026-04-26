@@ -13,8 +13,10 @@ Most of my work revolves around:
 
 ---
 
-## 🚀 Favourite Project:
-**[BigMart Sales Analysis (R)](https://github.com/ananyalytics/bigmart-sales-analysis)** - data analysis project covering cleaning, EDA, and visualization of retail sales data
+## 🚀 Favourite Projects:
+* **[BigMart Sales Analysis (R)](https://github.com/ananyalytics/bigmart-sales-analysis)** - data analysis project covering cleaning, EDA, and visualization of retail sales data
+
+* **[Student Engagement Analysis (Power BI)](https://github.com/ananyalytics/student-engagement-analysis)** - Power BI dashboard analysing student engagement and retention trends. 
 
 ---
 
